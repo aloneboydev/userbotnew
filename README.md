@@ -1,4 +1,4 @@
-# Project Telegram UserButt
+# Project Telegram UserBot
 
 <p align="center">
     <a href="https://github.com/mrmissx/UserButt/actions?query=workflow%3AFailCheck" > <img src="https://img.shields.io/github/workflow/status/mrmissx/userbutt/FailCheck/sql-extended?style=for-the-badge&logo=github-actions&logoColor=white" alt="Failcheck" /></a>
@@ -59,7 +59,7 @@ For further guide you can head to [Groups and Support](https://github.com/mrmiss
 
 Join [Userbot Indonesia Channel](https://t.me/userbotindocloud) for update notifications or announcement.
 
-Join [Userbotindo Support Group](https://t.me/userbotindo) for discussion, bug reporting, and help.
+Join [Userbotindo Support Group](https://t.me/userbotin) for discussion, bug reporting, and help.
 
 ## Credits
 
